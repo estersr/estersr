@@ -13,16 +13,6 @@
 
 
 
-# [TeslaClone](https://github.com/estersr/TeslaClone)
-🇺🇸 This app is the Tesla website clone built as a mobile application for iOS and Android using React Native and Expo.
-
-🇧🇷 Este aplicativo é um clone do site da Tesla desenvolvido como aplicativo para celulares iOS e Android usando React Native e Expo.
-
-![Alt Text](https://github.com/estersr/TeslaClone/blob/master/6jojk0.gif)
-
-
-
-
 # [TokyoJournal](https://github.com/estersr/TokyoJournal)
 🇺🇸 A simple App created on Swift Playgrounds with SwiftUI that brings interesting and educational facts about the city of Tokyo.
 
@@ -60,3 +50,13 @@ This app was designed using SwiftUI for splitting the cost of a meal with friend
 Este aplicativo foi projetado utilizando SwiftUI para dividir o custo de uma refeição com amigos. O usuário pode inserir um preço, selecionar quanto deseja deixar como gorjeta e quantas pessoas estão dispostas a compartilhar o custo. O aplicativo irá calcular quanto cada pessoa deve pagar.
 
 ![Alt Text](https://github.com/estersr/Splitter/raw/main/splitter.gif)
+
+
+
+
+# [TeslaClone](https://github.com/estersr/TeslaClone)
+🇺🇸 This app is the Tesla website clone built as a mobile application for iOS and Android using React Native and Expo.
+
+🇧🇷 Este aplicativo é um clone do site da Tesla desenvolvido como aplicativo para celulares iOS e Android usando React Native e Expo.
+
+![Alt Text](https://github.com/estersr/TeslaClone/blob/master/6jojk0.gif)
