@@ -1,3 +1,25 @@
+<h1 align='center'>
+ Hello 👋
+</h1>
+
+<p align='center'>
+  I'm Esther, an iOS Developer/SwiftUI and a Swift Student Challenge Winner 🏆
+</p>
+
+
+
+<p align='center'>
+
+  <a href="https://www.linkedin.com/in/estherramoss/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</p>
+
+<details>
+<summary>📱 SwiftUI Portfolio</summary>
+
+
 # [DrawingApp](https://github.com/estersr/DrawingApp)
 
 🇺🇸 This is a drawing app created with Swift that allows users not only to draw, but also pick the color and thickness of their pencil.
@@ -60,3 +82,5 @@ Este aplicativo foi projetado utilizando SwiftUI para dividir o custo de uma ref
 🇧🇷 Este aplicativo é um clone do site da Tesla desenvolvido como aplicativo para celulares iOS e Android usando React Native e Expo.
 
 ![Alt Text](https://github.com/estersr/TeslaClone/blob/master/6jojk0.gif)
+
+</details>
