@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I'm Esther, an iOS Developer/SwiftUI and a Swift Student Challenge Winner 🏆
+  I'm Esther, an iOS Developer/SwiftUI and a Swift Student Challenge Winner of 2024 🏆
 </p>
 
 
