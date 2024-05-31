@@ -20,6 +20,21 @@
 <summary>📱 SwiftUI Portfolio</summary>
 
 
+
+# [GuessTheFlag](https://github.com/estersr/GuessTheFlag/tree/main)
+
+🇺🇸 A SwiftUI project of a guessing game that helps users learn some of the many flags of the world.
+
+🇧🇷 Um projeto em SwiftUI de um jogo que ensina aos usuários sobre as bandeiras de vários países.
+
+https://github.com/estersr/estersr/assets/87035589/a20336dd-e02e-42bf-bbd3-bb7822228e4a
+
+
+
+
+
+
+
 # [DrawingApp](https://github.com/estersr/DrawingApp)
 
 🇺🇸 This is a drawing app created with Swift that allows users not only to draw, but also pick the color and thickness of their pencil.
