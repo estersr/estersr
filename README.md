@@ -30,7 +30,14 @@
 https://github.com/estersr/estersr/assets/87035589/a20336dd-e02e-42bf-bbd3-bb7822228e4a
 
 
+# [RockPaperScissors](https://github.com/estersr/RockPaperScissors/tree/main)
 
+🇺🇸 A brain training game that challenges players to win or lose at rock, paper, scissors.
+
+🇧🇷 Um jogo para a memória que desafia os usuários a vencerem ou perderem no pedra, papel, tesoura.
+
+
+https://github.com/estersr/estersr/assets/87035589/c60a8bc1-a08e-4d8d-9c6f-6bd425555edc
 
 
 
