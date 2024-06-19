@@ -40,6 +40,17 @@ https://github.com/estersr/estersr/assets/87035589/a20336dd-e02e-42bf-bbd3-bb782
 https://github.com/estersr/estersr/assets/87035589/c60a8bc1-a08e-4d8d-9c6f-6bd425555edc
 
 
+# [BetterRest](https://github.com/estersr/BetterRest)
+
+🇺🇸 This app was designed with SwiftUI + Machine Learning to help coffee drinkers get a good night’s sleep by asking them three questions: When do they want to wake up? Roughly how many hours of sleep do they want? How many cups of coffee do they drink per day?
+
+🇧🇷 Este app foi projetado em SwiftUI + Machine Learning para ajudar os consumidores de café a terem uma boa noite de sono fazendo três perguntas: A que horas eles querem acordar? Aproximadamente quantas horas de sono desejam? Quantas xícaras de café eles tomam por dia?
+
+
+
+https://github.com/estersr/estersr/assets/87035589/9aab94a6-3766-48bd-beec-35efcf06d108
+
+
 
 
 # [DrawingApp](https://github.com/estersr/DrawingApp)
