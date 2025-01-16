@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+
 </p>
+
 
 <details>
 <summary>📱 SwiftUI Portfolio</summary>
@@ -117,3 +119,14 @@ Este aplicativo foi projetado utilizando SwiftUI para dividir o custo de uma ref
 ![Alt Text](https://github.com/estersr/TeslaClone/blob/master/6jojk0.gif)
 
 </details>
+
+<details>
+<summary>📱 Daily Essay (Open Source Code) </summary>
+
+# [DailyEssay]([https://github.com/estersr/GuessTheFlag/tree/main](https://github.com/estersr/DailyEssay))
+
+🇺🇸 Daily Essay is the 2024 award-winning app selected by Apple in the Swift Student Challenge, designed to enhance users writing skills.
+
+🇧🇷 O Daily Essay é o app campeão de 2024, selecionado pela Apple no Swift Student Challenge, criado para aprimorar as habilidades de escrita dos usuários.
+
+
