@@ -129,4 +129,6 @@ Este aplicativo foi projetado utilizando SwiftUI para dividir o custo de uma ref
 
 🇧🇷 O Daily Essay é o app campeão de 2024, selecionado pela Apple no Swift Student Challenge, criado para aprimorar as habilidades de escrita dos usuários.
 
+![WhatsApp Image 2025-01-16 at 17 35 50](https://github.com/user-attachments/assets/6ca07a3c-f384-44e5-9804-ce1f2f801829)
+
 
