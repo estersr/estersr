@@ -123,7 +123,7 @@ Este aplicativo foi projetado utilizando SwiftUI para dividir o custo de uma ref
 <details>
 <summary>📱 Daily Essay (Open Source Code) </summary>
 
-# [DailyEssay]([https://github.com/estersr/GuessTheFlag/tree/main](https://github.com/estersr/DailyEssay))
+# [DailyEssay](https://github.com/estersr/DailyEssay)
 
 🇺🇸 Daily Essay is the 2024 award-winning app selected by Apple in the Swift Student Challenge, designed to enhance users writing skills.
 
