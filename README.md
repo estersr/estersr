@@ -131,7 +131,7 @@ Este aplicativo foi projetado utilizando SwiftUI para dividir o custo de uma ref
 </details>
 
 <details>
-<summary>📱 Daily Essay (Open Source Code) </summary>
+<summary>📱 Daily Essay (Open Source Code) - Swift Student Challenge Winner </summary>
 
 # [DailyEssay](https://github.com/estersr/DailyEssay)
 
