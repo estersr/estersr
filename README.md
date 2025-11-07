@@ -60,6 +60,13 @@ https://github.com/estersr/estersr/assets/87035589/9aab94a6-3766-48bd-beec-35efc
 
 https://github.com/user-attachments/assets/fc63a795-f922-45a1-8a50-f01843d41efe
 
+# [NewSymbolEffect](https://github.com/estersr/NewSymbolEffect)
+🇺🇸 Study in SwiftUI of the new animations and symbol effects introduced in iOS 26.
+
+🇧🇷 Estudo em SwiftUI das novas animações e efeitos de símbolos introduzidos no iOS 26.
+
+https://github.com/user-attachments/assets/b68c96a1-cea3-49f8-b09e-f3a77382d5e8
+
 
 # [DrawingApp](https://github.com/estersr/DrawingApp)
 
