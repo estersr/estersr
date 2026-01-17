@@ -60,7 +60,7 @@ https://github.com/estersr/estersr/assets/87035589/9aab94a6-3766-48bd-beec-35efc
 
 https://github.com/user-attachments/assets/fc63a795-f922-45a1-8a50-f01843d41efe
 
-# [MoodSnap] (https://github.com/estersr/MoodSnap)
+# [MoodSnap](https://github.com/estersr/MoodSnap)
 🇺🇸 The app uses local storage to save moods and displays them in a simple calendar view.
 
 🇧🇷 O aplicativo usa armazenamento local para salvar o humor e exibi-lo em uma visualização simples de calendário.
