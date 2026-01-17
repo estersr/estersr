@@ -68,6 +68,15 @@ https://github.com/user-attachments/assets/fc63a795-f922-45a1-8a50-f01843d41efe
 
 https://github.com/user-attachments/assets/f2731c3f-f63d-45dd-8558-ab21192539bc
 
+# [TimeSync](https://github.com/estersr/TimeSync)
+🇺🇸 A clean, minimal app that shows current times in two selected cities with real-time updates.
+
+🇧🇷 Um aplicativo minimalista que mostra os horários atuais em duas cidades selecionadas com atualizações em tempo real.
+
+
+https://github.com/user-attachments/assets/7c472f85-c9f1-41e0-9a4f-8eedf1d8c80d
+
+
 
 
 # [NewSymbolEffect](https://github.com/estersr/NewSymbolEffect)
