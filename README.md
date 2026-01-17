@@ -60,6 +60,16 @@ https://github.com/estersr/estersr/assets/87035589/9aab94a6-3766-48bd-beec-35efc
 
 https://github.com/user-attachments/assets/fc63a795-f922-45a1-8a50-f01843d41efe
 
+# [MoodSnap] (https://github.com/estersr/MoodSnap)
+🇺🇸 The app uses local storage to save moods and displays them in a simple calendar view.
+
+🇧🇷 O aplicativo usa armazenamento local para salvar o humor e exibi-lo em uma visualização simples de calendário.
+
+
+https://github.com/user-attachments/assets/f2731c3f-f63d-45dd-8558-ab21192539bc
+
+
+
 # [NewSymbolEffect](https://github.com/estersr/NewSymbolEffect)
 🇺🇸 Study in SwiftUI of the new animations and symbol effects introduced in iOS 26.
 
