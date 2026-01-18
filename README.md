@@ -37,9 +37,9 @@ https://github.com/user-attachments/assets/db6861b7-7d36-42ab-9452-1a5744718bb2
 
 
 # [EventCount](https://github.com/estersr/EventCount)
-🇺🇸 A countdown app for tracking time until your next important event.
+🇺🇸 A countdown app for tracking time until your next important event. How it works: Tap + to add new event, set title, date/time, color, and icon; View countdown on main screen, get notified when event time arrives and events automatically move to "Past Events" when time passes.
 
-🇧🇷 Um aplicativo de contagem regressiva para monitorar o tempo até o próximo evento importante.
+🇧🇷 Um aplicativo de contagem regressiva para monitorar o tempo até o próximo evento importante. Como funciona: Toque em + para adicionar novo evento, definir título, data/hora, cor e ícone; Veja a contagem regressiva na tela principal, seja notificado quando chegar a hora do evento e os eventos passarão automaticamente para "Eventos Passados" quando o tempo passar.
 
 
 https://github.com/user-attachments/assets/9f9e74d4-1ed7-499c-b9c9-8e381818731f
