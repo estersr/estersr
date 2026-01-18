@@ -22,15 +22,36 @@
 <summary>📱 SwiftUI Study Portfolio (+20 Projects) </summary>
 
 
+
+
+# [Grateful](https://github.com/estersr/Grateful)
+🇺🇸 A beautiful, focused app for recording daily gratitude with elegant typography and simple interaction. Key features: gradient themes, daily streak tracking, quick prompts for inspiration, favorite entries, calendar view of past entries, statistics and insights, daily inspirational quotes, dark/light mode support, local persistence (no internet needed), haptic feedback.
+
+🇧🇷 Um aplicativo focado para registrar gratidão diária com tipografia elegante e interação simples. Principais recursos: temas gradientes, rastreamento diário de sequência, prompts rápidos de inspiração, entradas favoritas, visualização de calendário de entradas anteriores, estatísticas e insights, citações inspiradoras diárias, suporte ao modo claro/escuro, persistência local (sem necessidade de internet), feedback tátil.
+
+
+
+
+https://github.com/user-attachments/assets/db6861b7-7d36-42ab-9452-1a5744718bb2
+
+
+
 # [EventCount](https://github.com/estersr/EventCount)
 🇺🇸 A clean, elegant countdown app for tracking time until your next important event.
 
 🇧🇷 Um aplicativo de contagem regressiva para monitorar o tempo até o próximo evento importante.
 
 
-
-
 https://github.com/user-attachments/assets/9f9e74d4-1ed7-499c-b9c9-8e381818731f
+
+
+# [ColorMatch](https://github.com/estersr/ColorMatch)
+🇺🇸 An app that uses the camera to capture real-world colors and matches them to the closest Pantone colors.
+
+🇧🇷 Um aplicativo que usa a câmera para capturar cores do mundo real e combiná-las com as cores Pantone mais próximas
+
+
+https://github.com/user-attachments/assets/638f8797-5045-47bd-93e5-00f687cfda79
 
 
 
@@ -44,15 +65,14 @@ https://github.com/user-attachments/assets/9f9e74d4-1ed7-499c-b9c9-8e381818731f
 https://github.com/estersr/estersr/assets/87035589/a20336dd-e02e-42bf-bbd3-bb7822228e4a
 
 
-# [ColorMatch](https://github.com/estersr/ColorMatch)
-🇺🇸 An app that uses the camera to capture real-world colors and matches them to the closest Pantone colors.
+# [PowerSaver](https://github.com/estersr/PowerSaver)
+🇺🇸 An informative app that shows battery status and provides actionable tips to extend battery life. Key features: real-time battery level monitoring, battery state detection (charging/not charging), Low Power Mode detection, personalized battery-saving tips, battery health estimation, category-based tip filtering, quick action buttons for common settings, daily tip rotation, onboarding experience, modern interface with battery-colored themes.
 
-🇧🇷 Um aplicativo que usa a câmera para capturar cores do mundo real e combiná-las com as cores Pantone mais próximas
-
-
+🇧🇷 Um aplicativo informativo que mostra o status da bateria e fornece dicas úteis para prolongar a vida útil da bateria. Principais recursos: monitoramento do nível da bateria em tempo real, detecção do estado da bateria (carregando/não carregando), detecção do modo de baixo consumo, dicas personalizadas de economia de bateria, estimativa da integridade da bateria, filtragem de pontas baseada em categoria, botões de ação rápida para configurações comuns, rotação diária de pontas, experiência de integração, interface moderna com temas da cor da bateria.
 
 
-https://github.com/user-attachments/assets/638f8797-5045-47bd-93e5-00f687cfda79
+
+https://github.com/user-attachments/assets/81cbae56-51a4-43e7-816b-32383292b906
 
 
 
