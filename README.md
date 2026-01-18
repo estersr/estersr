@@ -22,6 +22,18 @@
 <summary>📱 SwiftUI Study Portfolio (+20 Projects) </summary>
 
 
+# [EventCount](https://github.com/estersr/EventCount)
+🇺🇸 A clean, elegant countdown app for tracking time until your next important event.
+
+🇧🇷 Um aplicativo de contagem regressiva para monitorar o tempo até o próximo evento importante.
+
+
+
+
+https://github.com/user-attachments/assets/9f9e74d4-1ed7-499c-b9c9-8e381818731f
+
+
+
 
 # [GuessTheFlag](https://github.com/estersr/GuessTheFlag/tree/main)
 
