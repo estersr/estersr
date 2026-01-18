@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/db6861b7-7d36-42ab-9452-1a5744718bb2
 
 
 # [EventCount](https://github.com/estersr/EventCount)
-🇺🇸 A clean, elegant countdown app for tracking time until your next important event.
+🇺🇸 A countdown app for tracking time until your next important event.
 
 🇧🇷 Um aplicativo de contagem regressiva para monitorar o tempo até o próximo evento importante.
 
