@@ -202,13 +202,15 @@ Este aplicativo foi projetado utilizando SwiftUI para dividir o custo de uma ref
 </details>
 
 <details>
-<summary>📱 Daily Essay (Open Source Code) - Swift Student Challenge Winner </summary>
+<summary>📱 Daily Essay - Swift Student Challenge Winner </summary>
 
 # [DailyEssay](https://github.com/estersr/DailyEssay)
 
 🇺🇸 Daily Essay is the 2024 award-winning app selected by Apple in the Swift Student Challenge, designed to enhance users writing skills.
 
 🇧🇷 O Daily Essay é o app campeão de 2024, selecionado pela Apple no Swift Student Challenge, criado para aprimorar as habilidades de escrita dos usuários.
+
+App Store: https://apps.apple.com/us/app/daily-essay/id6683282160
 
 ![WhatsApp Image 2025-01-16 at 17 35 50](https://github.com/user-attachments/assets/6ca07a3c-f384-44e5-9804-ce1f2f801829)
 
