@@ -199,6 +199,76 @@ Este aplicativo foi projetado utilizando SwiftUI para dividir o custo de uma ref
 
 ![Alt Text](https://github.com/estersr/TeslaClone/blob/master/6jojk0.gif)
 
+
+</details>
+
+<details>
+<summary>📱 App Store Published Portfolio (Swift/SwiftUI) </summary>
+
+# Eye Relax: For Dry Tired Eyes
+
+🇺🇸 Meet Eye Relax - Your Science-Backed Solution for Digital Eye Strain! Tired of dry, tired eyes after long screen sessions? Eye Relax is the expert-designed app that helps you protect and refresh your vision with clinically proven exercises. Through quick, effective routines, you'll reduce strain, improve blink rate, and prevent long-term discomfort-all in just minutes a day.
+
+🇧🇷 Conheça Eye Relax - sua solução apoiada pela ciência para fadiga ocular digital! Cansado de olhos secos e cansados ​​após longas sessões de tela? Eye Relax é o aplicativo desenvolvido por especialistas que ajuda a proteger e refrescar sua visão com exercícios clinicamente comprovados. Através de rotinas rápidas e eficazes, você reduzirá o esforço, melhorará a taxa de piscadas e evitará desconforto a longo prazo - tudo em apenas alguns minutos por dia.
+
+App Store: https://apps.apple.com/us/app/eye-relax-for-dry-tired-eyes/id6746600739
+
+![IMG_1464](https://github.com/user-attachments/assets/d6f7851c-74c1-4606-87f8-ed9e81e818be)
+
+# SleepTune
+
+🇺🇸 Whether you are looking to improve your own sleep, focus on work, or help your baby drift off to dreamland, SleepTune provides the ultimate audio experience. Mix and match high-quality sounds to create your unique ambiance, or choose from our specialized library for relaxation and focus.
+
+🇧🇷 Esteja você procurando melhorar seu sono, concentrar-se no trabalho ou ajudar seu bebê a mergulhar na terra dos sonhos, o SleepTune oferece a melhor experiência de áudio. Misture e combine sons de alta qualidade para criar seu ambiente único ou escolha em nossa biblioteca especializada para relaxar e se concentrar.
+
+App Store: https://apps.apple.com/us/app/sleeptune/id6756681306
+
+
+![IMG_1473](https://github.com/user-attachments/assets/974960ad-d676-43c1-927a-c941f9c443a4)
+
+# Piggy Bank: Track Savings
+
+🇺🇸 Piggy Bank is a modern, gamified financial tracking application designed to help users visualize and achieve their savings goals. Unlike traditional budgeting apps that just list numbers, Piggy Bank utilizes a "Savings Grid" psychology. Users break down large financial targets into small, manageable "chips" or denominations,
+turning the act of saving money into a satisfying, game-like experience.
+
+🇧🇷 Piggy Bank é um aplicativo de rastreamento financeiro moderno e gamificado, projetado para ajudar os usuários a visualizar e atingir suas metas de economia. Ao contrário dos aplicativos de orçamento tradicionais que apenas listam números, o Piggy Bank utiliza uma psicologia de “Grade de Poupança”. Os usuários dividem grandes metas financeiras em "cartões" ou denominações pequenas e gerenciáveis,transformando o ato de economizar dinheiro em uma experiência satisfatória de jogo.
+
+App Store: https://apps.apple.com/us/app/piggy-bank-track-savings/id6758254307
+
+![IMG_1455](https://github.com/user-attachments/assets/0a3ab88b-58f0-4407-b64c-f46470e78ddc)
+
+# Piggy Bank: Track Savings
+
+🇺🇸 Discover the amazing world of animals with our Animal Library, the perfect interactive companion for curious kids! Designed with vibrant colors and easy-to-use buttons, this app turns learning into a fun adventure.
+
+🇧🇷 Descubra o incrível mundo dos animais com a nossa Biblioteca Animal, a companhia interativa perfeita para crianças curiosas! Projetado com cores vibrantes e botões fáceis de usar, este aplicativo transforma o aprendizado em uma aventura divertida.
+
+App Store: https://apps.apple.com/us/app/jungle-library-sounds-about/id6758163956
+
+![IMG_1459](https://github.com/user-attachments/assets/e2381cea-7e5d-4ef5-8973-791383ae997c)
+
+# Daily Essay
+
+🇺🇸 Daily Essay is the 2024 award-winning app selected by Apple in the Swift Student Challenge, designed to enhance users writing skills.
+
+🇧🇷 O Daily Essay é o app campeão de 2024, selecionado pela Apple no Swift Student Challenge, criado para aprimorar as habilidades de escrita dos usuários.
+
+App Store: https://apps.apple.com/us/app/daily-essay/id6683282160
+
+![WhatsApp Image 2025-01-16 at 17 35 50](https://github.com/user-attachments/assets/6ca07a3c-f384-44e5-9804-ce1f2f801829)
+
+# Bye Mosquito
+
+🇺🇸 Meet Bye Mosquito - the smart sound-based repellent app that uses scientifically-tuned ultrasonic frequencies to keep mosquitos away without chemicals, sprays, or bites. Whether you're sleeping, relaxing indoors, or enjoying the outdoors, we've engineered specific frequency modes optimized for each environment.
+
+🇧🇷 Conheça Bye Mosquito - o aplicativo repelente inteligente baseado em som que usa frequências ultrassônicas cientificamente ajustadas para manter os mosquitos afastados sem produtos químicos, sprays ou picadas. Esteja você dormindo, relaxando em ambientes fechados ou aproveitando o ar livre, projetamos modos de frequência específicos otimizados para cada ambiente.
+
+App Store: https://apps.apple.com/us/app/bye-mosquito-repellent-sounds/id6754805177
+
+![IMG_1468](https://github.com/user-attachments/assets/d319e336-83fd-4f03-ba19-739bac881296)
+
+
+
 </details>
 
 <details>
@@ -213,5 +283,6 @@ Este aplicativo foi projetado utilizando SwiftUI para dividir o custo de uma ref
 App Store: https://apps.apple.com/us/app/daily-essay/id6683282160
 
 ![WhatsApp Image 2025-01-16 at 17 35 50](https://github.com/user-attachments/assets/6ca07a3c-f384-44e5-9804-ce1f2f801829)
+
 
 
