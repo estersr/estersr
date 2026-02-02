@@ -237,7 +237,7 @@ App Store: https://apps.apple.com/us/app/piggy-bank-track-savings/id6758254307
 
 ![IMG_1455](https://github.com/user-attachments/assets/0a3ab88b-58f0-4407-b64c-f46470e78ddc)
 
-# Piggy Bank: Track Savings
+# Jungle Library: Sounds & About
 
 🇺🇸 Discover the amazing world of animals with our Animal Library, the perfect interactive companion for curious kids! Designed with vibrant colors and easy-to-use buttons, this app turns learning into a fun adventure.
 
