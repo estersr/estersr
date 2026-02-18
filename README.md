@@ -226,6 +226,16 @@ App Store: https://apps.apple.com/us/app/sleeptune/id6756681306
 
 ![IMG_1473](https://github.com/user-attachments/assets/974960ad-d676-43c1-927a-c941f9c443a4)
 
+# Phone Faker: Your Simulator
+
+🇺🇸 Let an incoming fake call simulation save you from any awkward situation. Create a fake urgent notification simulation you just have to deal with. Activate a fake low-battery simulation screen to end the night or avoid a task.
+
+🇧🇷 Deixe que uma simulação de chamada falsa o salve de qualquer situação embaraçosa. Crie uma simulação falsa de notificação urgente com a qual você simplesmente terá que lidar. Ative uma tela falsa de simulação de bateria fraca para encerrar a noite ou evitar uma tarefa.
+
+App Store: https://apps.apple.com/us/app/phone-faker-your-simulator/id6758737789
+
+![IMG_1684](https://github.com/user-attachments/assets/c8f750e5-d75c-4c9f-a90c-34f23ebd67de)
+
 # Piggy Bank: Track Savings
 
 🇺🇸 Piggy Bank is a modern, gamified financial tracking application designed to help users visualize and achieve their savings goals. Unlike traditional budgeting apps that just list numbers, Piggy Bank utilizes a "Savings Grid" psychology. Users break down large financial targets into small, manageable "chips" or denominations,
@@ -236,6 +246,18 @@ turning the act of saving money into a satisfying, game-like experience.
 App Store: https://apps.apple.com/us/app/piggy-bank-track-savings/id6758254307
 
 ![IMG_1455](https://github.com/user-attachments/assets/0a3ab88b-58f0-4407-b64c-f46470e78ddc)
+
+
+# Study Deck: Memory Flashcards
+
+🇺🇸 Create unlimited decks and turn any subject into memory cards. Watch your memory improve with realtime stats and % scores. Stay consistent with a personal study calendar that tracks every subject, every day.
+
+🇧🇷 Crie baralhos ilimitados e transforme qualquer assunto em cartões de memória. Observe sua memória melhorar com estatísticas em tempo real e pontuações percentuais. Mantenha-se consistente com um calendário de estudo pessoal que monitora todas as matérias, todos os dias
+
+App Store: https://apps.apple.com/us/app/study-deck-memory-flashcards/id6759115906
+
+![IMG_1685](https://github.com/user-attachments/assets/2cf623b9-7479-484c-a309-fa6881c55082)
+
 
 # Jungle Library: Sounds & About
 
