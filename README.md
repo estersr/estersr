@@ -247,6 +247,19 @@ App Store: https://apps.apple.com/us/app/piggy-bank-track-savings/id6758254307
 
 ![IMG_1455](https://github.com/user-attachments/assets/0a3ab88b-58f0-4407-b64c-f46470e78ddc)
 
+# Retro Games: Classic Arcade
+
+🇺🇸 This is a SwiftUI app called RetroGames that collects several classic games in one place. It includes games like Snake, Breakout, Hangman, Minesweeper, and more.
+
+🇧🇷 Este é um aplicativo em SwiftUI chamado RetroGames, que reúne vários jogos clássicos em um só lugar. Ele inclui jogos como Snake, Breakout, Jogo da Forca, Campo Minado e muito mais.
+
+App Store: 
+
+<img width="5500" height="4125" alt="IMG_1715" src="https://github.com/user-attachments/assets/8a7c0ab6-7028-45af-9ae7-9ea4715857d4" />
+
+
+
+
 
 # Study Deck: Memory Flashcards
 
