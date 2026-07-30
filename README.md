@@ -253,7 +253,7 @@ App Store: https://apps.apple.com/us/app/piggy-bank-track-savings/id6758254307
 
 🇧🇷 Este é um aplicativo em SwiftUI chamado RetroGames, que reúne vários jogos clássicos em um só lugar. Ele inclui jogos como Snake, Breakout, Jogo da Forca, Campo Minado e muito mais.
 
-App Store: 
+App Store: https://apps.apple.com/us/app/retro-games-classic-arcade/id6792060396
 
 <img width="5500" height="4125" alt="IMG_1715" src="https://github.com/user-attachments/assets/8a7c0ab6-7028-45af-9ae7-9ea4715857d4" />
 
