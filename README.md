@@ -224,7 +224,8 @@ App Store: https://apps.apple.com/us/app/eye-relax-for-dry-tired-eyes/id67466007
 App Store: https://apps.apple.com/us/app/sleeptune/id6756681306
 
 
-![IMG_1473](https://github.com/user-attachments/assets/974960ad-d676-43c1-927a-c941f9c443a4)
+<img width="5500" height="3093" alt="IMG_2146" src="https://github.com/user-attachments/assets/d38b4f76-ba2c-4cc1-b059-da086d6da40b" />
+
 
 # Phone Faker: Your Simulator
 
@@ -300,7 +301,8 @@ App Store: https://apps.apple.com/us/app/daily-essay/id6683282160
 
 App Store: https://apps.apple.com/us/app/bye-mosquito-repellent-sounds/id6754805177
 
-![IMG_1468](https://github.com/user-attachments/assets/d319e336-83fd-4f03-ba19-739bac881296)
+<img width="5500" height="4125" alt="IMG_2145" src="https://github.com/user-attachments/assets/ba6a0ccf-35aa-4572-b3bf-ce9ad7b85def" />
+
 
 
 
