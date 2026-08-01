@@ -227,16 +227,6 @@ App Store: https://apps.apple.com/us/app/sleeptune/id6756681306
 <img width="5500" height="3093" alt="IMG_2146" src="https://github.com/user-attachments/assets/d38b4f76-ba2c-4cc1-b059-da086d6da40b" />
 
 
-# Phone Faker: Your Simulator
-
-🇺🇸 Let an incoming fake call simulation save you from any awkward situation. Create a fake urgent notification simulation you just have to deal with. Activate a fake low-battery simulation screen to end the night or avoid a task.
-
-🇧🇷 Deixe que uma simulação de chamada falsa o salve de qualquer situação embaraçosa. Crie uma simulação falsa de notificação urgente com a qual você simplesmente terá que lidar. Ative uma tela falsa de simulação de bateria fraca para encerrar a noite ou evitar uma tarefa.
-
-App Store: https://apps.apple.com/us/app/phone-faker-your-simulator/id6758737789
-
-![IMG_1684](https://github.com/user-attachments/assets/c8f750e5-d75c-4c9f-a90c-34f23ebd67de)
-
 # Piggy Bank: Track Savings
 
 🇺🇸 Piggy Bank is a modern, gamified financial tracking application designed to help users visualize and achieve their savings goals. Unlike traditional budgeting apps that just list numbers, Piggy Bank utilizes a "Savings Grid" psychology. Users break down large financial targets into small, manageable "chips" or denominations,
@@ -260,8 +250,6 @@ App Store: https://apps.apple.com/us/app/retro-games-classic-arcade/id6792060396
 
 
 
-
-
 # Study Deck: Memory Flashcards
 
 🇺🇸 Create unlimited decks and turn any subject into memory cards. Watch your memory improve with realtime stats and % scores. Stay consistent with a personal study calendar that tracks every subject, every day.
@@ -270,8 +258,17 @@ App Store: https://apps.apple.com/us/app/retro-games-classic-arcade/id6792060396
 
 App Store: https://apps.apple.com/us/app/study-deck-memory-flashcards/id6759115906
 
-![IMG_1685](https://github.com/user-attachments/assets/2cf623b9-7479-484c-a309-fa6881c55082)
+<img width="5500" height="3093" alt="IMG_2155" src="https://github.com/user-attachments/assets/4bbd447d-41b6-4213-9339-7749d58e4dc4" />
 
+# Phone Faker: Your Simulator
+
+🇺🇸 Let an incoming fake call simulation save you from any awkward situation. Create a fake urgent notification simulation you just have to deal with. Activate a fake low-battery simulation screen to end the night or avoid a task.
+
+🇧🇷 Deixe que uma simulação de chamada falsa o salve de qualquer situação embaraçosa. Crie uma simulação falsa de notificação urgente com a qual você simplesmente terá que lidar. Ative uma tela falsa de simulação de bateria fraca para encerrar a noite ou evitar uma tarefa.
+
+App Store: https://apps.apple.com/us/app/phone-faker-your-simulator/id6758737789
+
+![IMG_1684](https://github.com/user-attachments/assets/c8f750e5-d75c-4c9f-a90c-34f23ebd67de)
 
 # Jungle Library: Sounds & About
 
