@@ -213,7 +213,8 @@ Este aplicativo foi projetado utilizando SwiftUI para dividir o custo de uma ref
 
 App Store: https://apps.apple.com/us/app/eye-relax-for-dry-tired-eyes/id6746600739
 
-![IMG_1464](https://github.com/user-attachments/assets/d6f7851c-74c1-4606-87f8-ed9e81e818be)
+<img width="5500" height="3093" alt="IMG_2280" src="https://github.com/user-attachments/assets/77b1cf98-5b18-4b59-a6d5-68dad4c89bd9" />
+
 
 # SleepTune
 
@@ -288,7 +289,8 @@ App Store: https://apps.apple.com/us/app/jungle-library-sounds-about/id675816395
 
 App Store: https://apps.apple.com/us/app/daily-essay/id6683282160
 
-![WhatsApp Image 2025-01-16 at 17 35 50](https://github.com/user-attachments/assets/6ca07a3c-f384-44e5-9804-ce1f2f801829)
+<img width="5500" height="3093" alt="IMG_2285" src="https://github.com/user-attachments/assets/b59b4d3b-0469-4e21-9578-f95b32707cd2" />
+
 
 # Bye Mosquito
 
@@ -316,7 +318,8 @@ App Store: https://apps.apple.com/us/app/bye-mosquito-repellent-sounds/id6754805
 
 App Store: https://apps.apple.com/us/app/daily-essay/id6683282160
 
-![WhatsApp Image 2025-01-16 at 17 35 50](https://github.com/user-attachments/assets/6ca07a3c-f384-44e5-9804-ce1f2f801829)
+<img width="5500" height="3093" alt="IMG_2285" src="https://github.com/user-attachments/assets/5c1c64ad-583e-4a8c-b496-50eb91fc6e5c" />
+
 
 
 
