@@ -205,15 +205,36 @@ Este aplicativo foi projetado utilizando SwiftUI para dividir o custo de uma ref
 <details>
 <summary>📱 App Store Published Portfolio (Swift/SwiftUI) </summary>
 
-# Eye Relax: For Dry Tired Eyes
 
-🇺🇸 Meet Eye Relax - Your Science-Backed Solution for Digital Eye Strain! Tired of dry, tired eyes after long screen sessions? Eye Relax is the expert-designed app that helps you protect and refresh your vision with clinically proven exercises. Through quick, effective routines, you'll reduce strain, improve blink rate, and prevent long-term discomfort-all in just minutes a day.
+# Study Deck: Memory Flashcards
 
-🇧🇷 Conheça Eye Relax - sua solução apoiada pela ciência para fadiga ocular digital! Cansado de olhos secos e cansados ​​após longas sessões de tela? Eye Relax é o aplicativo desenvolvido por especialistas que ajuda a proteger e refrescar sua visão com exercícios clinicamente comprovados. Através de rotinas rápidas e eficazes, você reduzirá o esforço, melhorará a taxa de piscadas e evitará desconforto a longo prazo - tudo em apenas alguns minutos por dia.
+🇺🇸 Create unlimited decks and turn any subject into memory cards. Watch your memory improve with realtime stats and % scores. Stay consistent with a personal study calendar that tracks every subject, every day.
 
-App Store: https://apps.apple.com/us/app/eye-relax-for-dry-tired-eyes/id6746600739
+🇧🇷 Crie baralhos ilimitados e transforme qualquer assunto em cartões de memória. Observe sua memória melhorar com estatísticas em tempo real e pontuações percentuais. Mantenha-se consistente com um calendário de estudo pessoal que monitora todas as matérias, todos os dias
 
-<img width="5500" height="3093" alt="IMG_2280" src="https://github.com/user-attachments/assets/77b1cf98-5b18-4b59-a6d5-68dad4c89bd9" />
+App Store: https://apps.apple.com/us/app/study-deck-memory-flashcards/id6759115906
+
+<img width="5500" height="3093" alt="IMG_2155" src="https://github.com/user-attachments/assets/4bbd447d-41b6-4213-9339-7749d58e4dc4" />
+
+# Retro Games: Classic Arcade
+
+🇺🇸 This is a SwiftUI app called RetroGames that collects several classic games in one place. It includes a ROMs simulator, and games like Snake, Breakout, Hangman, Minesweeper, and more. 
+
+🇧🇷 Este é um aplicativo em SwiftUI chamado RetroGames, que reúne vários jogos clássicos em um só lugar. Ele inclui simulador de ROMs e jogos como Snake, Breakout, Jogo da Forca, Campo Minado e muito mais.
+
+App Store: https://apps.apple.com/us/app/retro-games-classic-arcade/id6792060396
+
+<img width="5500" height="3093" alt="IMG_2947" src="https://github.com/user-attachments/assets/7bc46056-7fe9-4bce-9af3-cf9dfe565a99" />
+
+# Daily Essay
+
+🇺🇸 Daily Essay is the 2024 award-winning app selected by Apple in the Swift Student Challenge, designed to enhance users writing skills.
+
+🇧🇷 O Daily Essay é o app campeão de 2024, selecionado pela Apple no Swift Student Challenge, criado para aprimorar as habilidades de escrita dos usuários.
+
+App Store: https://apps.apple.com/us/app/daily-essay/id6683282160
+
+<img width="5500" height="3093" alt="IMG_2285" src="https://github.com/user-attachments/assets/b59b4d3b-0469-4e21-9578-f95b32707cd2" />
 
 
 # SleepTune
@@ -227,6 +248,38 @@ App Store: https://apps.apple.com/us/app/sleeptune/id6756681306
 
 <img width="5500" height="3093" alt="IMG_2146" src="https://github.com/user-attachments/assets/d38b4f76-ba2c-4cc1-b059-da086d6da40b" />
 
+# Rememo: AI Memory Notes
+
+🇺🇸 Rememo is made for the small stuff that slips away: names, recommendations, parking spots, half-ideas, things friends mention once. Write it down now. Ask for it whenever. Rememo is where you drop them - and the one place you can always get them back. Just write it down like a sticky note. Then, when you need it weeks later, simply ask and Rememo's on-device Al finds the answer in your notes.
+
+🇧🇷 O Rememo foi feito para aquelas pequenas coisas que escapam da memória: nomes, recomendações, vagas de estacionamento, ideias incompletas, coisas que amigos mencionam de passagem. Anote agora. Consulte quando quiser. O Rememo é o lugar ideal para guardar essas informações — e o único lugar onde você sempre poderá recuperá-las. Basta anotar, como se fosse um post-it. Depois, quando precisar da informação semanas mais tarde, é só perguntar e a IA do Rememo, que roda diretamente no seu dispositivo, encontra a resposta nas suas anotações.
+
+App Store: https://apps.apple.com/us/app/rememo-ai-memory-notes/id6799567537
+
+<img width="5500" height="3666" alt="IMG_2491" src="https://github.com/user-attachments/assets/b6124005-735d-43ff-a2d6-545225906e17" />
+
+
+# Paintly - Paint by Number Art
+
+🇺🇸 Turn any photo into a paint by number masterpiece - or pick from our library of ready-to-paint pictures. Tap, relax, and watch the artwork come alive, color by color. And when you want a break from the screen: print any picture with its numbered color guide and paint it on real paper
+
+🇧🇷 Transforme qualquer foto em uma obra-prima de pintura por números — ou escolha uma imagem da nossa biblioteca pronta para pintar. Toque, relaxe e veja a arte ganhar vida, cor por cor. E, quando quiser uma pausa da tela: imprima qualquer imagem com seu guia de cores numerado e pinte-a em papel de verdade.
+
+App Store: https://apps.apple.com/us/app/paintly-paint-by-number-art/id6801948624
+
+<img width="5500" height="3666" alt="IMG_2490" src="https://github.com/user-attachments/assets/823cfc3a-505e-4faf-a951-d6a587e02db2" />
+
+
+# Eye Relax: For Dry Tired Eyes
+
+🇺🇸 Meet Eye Relax - Your Science-Backed Solution for Digital Eye Strain! Tired of dry, tired eyes after long screen sessions? Eye Relax is the expert-designed app that helps you protect and refresh your vision with clinically proven exercises. Through quick, effective routines, you'll reduce strain, improve blink rate, and prevent long-term discomfort-all in just minutes a day.
+
+🇧🇷 Conheça Eye Relax - sua solução apoiada pela ciência para fadiga ocular digital! Cansado de olhos secos e cansados ​​após longas sessões de tela? Eye Relax é o aplicativo desenvolvido por especialistas que ajuda a proteger e refrescar sua visão com exercícios clinicamente comprovados. Através de rotinas rápidas e eficazes, você reduzirá o esforço, melhorará a taxa de piscadas e evitará desconforto a longo prazo - tudo em apenas alguns minutos por dia.
+
+App Store: https://apps.apple.com/us/app/eye-relax-for-dry-tired-eyes/id6746600739
+
+<img width="5500" height="3093" alt="IMG_2280" src="https://github.com/user-attachments/assets/77b1cf98-5b18-4b59-a6d5-68dad4c89bd9" />
+
 
 # Piggy Bank: Track Savings
 
@@ -239,27 +292,15 @@ App Store: https://apps.apple.com/us/app/piggy-bank-track-savings/id6758254307
 
 ![IMG_1455](https://github.com/user-attachments/assets/0a3ab88b-58f0-4407-b64c-f46470e78ddc)
 
-# Retro Games: Classic Arcade
+# Bye Mosquito
 
-🇺🇸 This is a SwiftUI app called RetroGames that collects several classic games in one place. It includes games like Snake, Breakout, Hangman, Minesweeper, and more.
+🇺🇸 Meet Bye Mosquito - the smart sound-based repellent app that uses scientifically-tuned ultrasonic frequencies to keep mosquitos away without chemicals, sprays, or bites. Whether you're sleeping, relaxing indoors, or enjoying the outdoors, we've engineered specific frequency modes optimized for each environment.
 
-🇧🇷 Este é um aplicativo em SwiftUI chamado RetroGames, que reúne vários jogos clássicos em um só lugar. Ele inclui jogos como Snake, Breakout, Jogo da Forca, Campo Minado e muito mais.
+🇧🇷 Conheça Bye Mosquito - o aplicativo repelente inteligente baseado em som que usa frequências ultrassônicas cientificamente ajustadas para manter os mosquitos afastados sem produtos químicos, sprays ou picadas. Esteja você dormindo, relaxando em ambientes fechados ou aproveitando o ar livre, projetamos modos de frequência específicos otimizados para cada ambiente.
 
-App Store: https://apps.apple.com/us/app/retro-games-classic-arcade/id6792060396
+App Store: https://apps.apple.com/us/app/bye-mosquito-repellent-sounds/id6754805177
 
-<img width="5500" height="4125" alt="IMG_1715" src="https://github.com/user-attachments/assets/8a7c0ab6-7028-45af-9ae7-9ea4715857d4" />
-
-
-
-# Study Deck: Memory Flashcards
-
-🇺🇸 Create unlimited decks and turn any subject into memory cards. Watch your memory improve with realtime stats and % scores. Stay consistent with a personal study calendar that tracks every subject, every day.
-
-🇧🇷 Crie baralhos ilimitados e transforme qualquer assunto em cartões de memória. Observe sua memória melhorar com estatísticas em tempo real e pontuações percentuais. Mantenha-se consistente com um calendário de estudo pessoal que monitora todas as matérias, todos os dias
-
-App Store: https://apps.apple.com/us/app/study-deck-memory-flashcards/id6759115906
-
-<img width="5500" height="3093" alt="IMG_2155" src="https://github.com/user-attachments/assets/4bbd447d-41b6-4213-9339-7749d58e4dc4" />
+<img width="5500" height="4125" alt="IMG_2145" src="https://github.com/user-attachments/assets/ba6a0ccf-35aa-4572-b3bf-ce9ad7b85def" />
 
 # Phone Faker: Your Simulator
 
@@ -281,26 +322,6 @@ App Store: https://apps.apple.com/us/app/jungle-library-sounds-about/id675816395
 
 ![IMG_1459](https://github.com/user-attachments/assets/e2381cea-7e5d-4ef5-8973-791383ae997c)
 
-# Daily Essay
-
-🇺🇸 Daily Essay is the 2024 award-winning app selected by Apple in the Swift Student Challenge, designed to enhance users writing skills.
-
-🇧🇷 O Daily Essay é o app campeão de 2024, selecionado pela Apple no Swift Student Challenge, criado para aprimorar as habilidades de escrita dos usuários.
-
-App Store: https://apps.apple.com/us/app/daily-essay/id6683282160
-
-<img width="5500" height="3093" alt="IMG_2285" src="https://github.com/user-attachments/assets/b59b4d3b-0469-4e21-9578-f95b32707cd2" />
-
-
-# Bye Mosquito
-
-🇺🇸 Meet Bye Mosquito - the smart sound-based repellent app that uses scientifically-tuned ultrasonic frequencies to keep mosquitos away without chemicals, sprays, or bites. Whether you're sleeping, relaxing indoors, or enjoying the outdoors, we've engineered specific frequency modes optimized for each environment.
-
-🇧🇷 Conheça Bye Mosquito - o aplicativo repelente inteligente baseado em som que usa frequências ultrassônicas cientificamente ajustadas para manter os mosquitos afastados sem produtos químicos, sprays ou picadas. Esteja você dormindo, relaxando em ambientes fechados ou aproveitando o ar livre, projetamos modos de frequência específicos otimizados para cada ambiente.
-
-App Store: https://apps.apple.com/us/app/bye-mosquito-repellent-sounds/id6754805177
-
-<img width="5500" height="4125" alt="IMG_2145" src="https://github.com/user-attachments/assets/ba6a0ccf-35aa-4572-b3bf-ce9ad7b85def" />
 
 
 
