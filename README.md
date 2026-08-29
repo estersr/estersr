@@ -305,6 +305,28 @@ App Store: https://apps.apple.com/us/app/bye-mosquito-repellent-sounds/id6754805
 
 <img width="5500" height="4125" alt="IMG_2145" src="https://github.com/user-attachments/assets/ba6a0ccf-35aa-4572-b3bf-ce9ad7b85def" />
 
+# Bubbly Star: Bubble Pop
+
+🇺🇸 Guide a little star through the bubble caves in a bright, retro arcade adventure! Blow bubbles to trap the ghosts, then pop them to clear each stage and rain down treats. It's cute, chaotic, and impossible to put down.
+
+🇧🇷 Guie uma estrelinha pelas cavernas de bolhas nesta aventura vibrante de arcade com visual retrô! Solte bolhas para prender os fantasmas e depois estoure-as para completar cada fase e fazer chover recompensas. É um jogo fofo, caótico e impossível de largar.
+
+App Store:
+
+<img width="5500" height="4125" alt="IMG_2975" src="https://github.com/user-attachments/assets/bfe3ade8-5007-472f-a579-2b5552752271" />
+
+
+# Jungle Library: Sounds & About
+
+🇺🇸 Discover the amazing world of animals with our Animal Library, the perfect interactive companion for curious kids! Designed with vibrant colors and easy-to-use buttons, this app turns learning into a fun adventure.
+
+🇧🇷 Descubra o incrível mundo dos animais com a nossa Biblioteca Animal, a companhia interativa perfeita para crianças curiosas! Projetado com cores vibrantes e botões fáceis de usar, este aplicativo transforma o aprendizado em uma aventura divertida.
+
+App Store: https://apps.apple.com/us/app/jungle-library-sounds-about/id6758163956
+
+<img width="5500" height="3093" alt="IMG_2971" src="https://github.com/user-attachments/assets/5c547ba0-87d0-414d-a5c6-d345859f14cc" />
+
+
 # Phone Faker: Your Simulator
 
 🇺🇸 Let an incoming fake call simulation save you from any awkward situation. Create a fake urgent notification simulation you just have to deal with. Activate a fake low-battery simulation screen to end the night or avoid a task.
@@ -315,15 +337,6 @@ App Store: https://apps.apple.com/us/app/phone-faker-your-simulator/id6758737789
 
 ![IMG_1684](https://github.com/user-attachments/assets/c8f750e5-d75c-4c9f-a90c-34f23ebd67de)
 
-# Jungle Library: Sounds & About
-
-🇺🇸 Discover the amazing world of animals with our Animal Library, the perfect interactive companion for curious kids! Designed with vibrant colors and easy-to-use buttons, this app turns learning into a fun adventure.
-
-🇧🇷 Descubra o incrível mundo dos animais com a nossa Biblioteca Animal, a companhia interativa perfeita para crianças curiosas! Projetado com cores vibrantes e botões fáceis de usar, este aplicativo transforma o aprendizado em uma aventura divertida.
-
-App Store: https://apps.apple.com/us/app/jungle-library-sounds-about/id6758163956
-
-![IMG_1459](https://github.com/user-attachments/assets/e2381cea-7e5d-4ef5-8973-791383ae997c)
 
 
 
