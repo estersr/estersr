@@ -281,7 +281,8 @@ App Store: https://apps.apple.com/us/app/paintly-paint-by-number-art/id680194862
 
 App Store: https://apps.apple.com/us/app/eye-relax-for-dry-tired-eyes/id6746600739
 
-<img width="5500" height="3093" alt="IMG_2280" src="https://github.com/user-attachments/assets/77b1cf98-5b18-4b59-a6d5-68dad4c89bd9" />
+<img width="5500" height="3093" alt="IMG_3185" src="https://github.com/user-attachments/assets/b6522368-f988-4f9c-bc69-8ab9766cc2f9" />
+
 
 
 # Piggy Bank: Track Savings
